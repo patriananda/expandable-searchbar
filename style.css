@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+}
+input {
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+  background-color: #f6f6f6 !important;
+  transition: all 0.7s ease-in-out !important;
+}
+
+button {
+  transform: translateX(-50px);
+  box-shadow: none !important;
+  transition: all 0.7s ease-in-out !important;
+}
